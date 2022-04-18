@@ -13,7 +13,7 @@ function App() {
         <div className='text_downloads'>
           Downloads
         </div>
-        <button className='download_button' onClick={() => window.location.href='https://drive.google.com/u/3/uc?id=1-0Z_Jmb3Su_2gHc6UA0zJe8joNHsM78A&export=download&confirm=t'}>
+        <button className='download_button' onClick={() => window.location.href='https://dl.dropboxusercontent.com/s/8c00bnfvpoh4kd0/SwingLauncherInstall.exe?dl=0'}>
           Swing Launcher for Windows (x64)
         </button>
       </div>
